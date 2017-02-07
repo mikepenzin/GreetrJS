@@ -9,6 +9,12 @@ So, this specific project isn't a biggest library ever, but it's a great boilerp
 
 
 ##// Initialization
+You may add the following full or minified version
+
+Full - https://gist.github.com/mikepenzin/925192ebb367ad2810cf8fbc7f39f158 
+
+Minified - https://gist.github.com/mikepenzin/026bc10c133e34801c9d875174c04d33
+
 
 ```js
 G$(firstName, lastName, language);
