@@ -1,6 +1,13 @@
 # GreetrJS - v0.0.1
 Simple tiny JS library in order to output personal greetings by language, including jQuery usage. 
 
+##// Background
+
+As part of JS course, we need to learn the jQuery code base structure and to build library using similar methods.
+
+So, this specific project isn't a biggest or sharpest library ever, but it's a great boilerplate in order to build good, safe and usable standalone library or jQuery plugin.
+
+
 ##// Initialization
 
 ```js
