@@ -5,7 +5,7 @@ Simple tiny JS library in order to output personal greetings by language, includ
 
 As part of JS course, we need to learn the jQuery code base structure and to build library using similar methods.
 
-So, this specific project isn't a biggest or sharpest library ever, but it's a great boilerplate in order to build good, safe and usable standalone library or jQuery plugin.
+So, this specific project isn't a biggest library ever, but it's a great boilerplate in order to build good, safe and usable standalone library or jQuery plugin.
 
 
 ##// Initialization
