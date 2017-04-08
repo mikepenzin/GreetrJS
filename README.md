@@ -1,14 +1,14 @@
 # GreetrJS - v0.0.1
 Simple tiny JS library in order to output personal greetings by language, including jQuery usage. 
 
-##// Background
+## Background
 
 As part of JS course, we need to learn the jQuery code base structure and to build library using similar methods.
 
 So, this specific project isn't a biggest library ever, but it's a great boilerplate in order to build good, safe and usable standalone library or jQuery plugin.
 
 
-##// Initialization
+## Initialization
 
 ```js
 G$(firstName, lastName, language);
@@ -20,7 +20,7 @@ firstName, lastName = empty
 language = en (english) 
 
 
-##// Basic Functionality
+## Basic Functionality
 
 ```js
 G$('John', 'Doe').greet();
@@ -47,7 +47,7 @@ Output:
 <code>Logged In: John Doe</code>
 
 
-##// Full Example
+## Full Example
 
 ```js
 G$('John', 'Doe').greet().greet(true).setLang('es').log();
@@ -64,7 +64,7 @@ Inicio sesion: John Doe
 </code>
 
 
-##// Error handling
+## Error handling
 
 ```js
 G$('John', 'Doe').setLang('fr');
@@ -73,8 +73,7 @@ Output: </br>
 <code>Error: Uncaught Invalid Language</code>
 
 
-
-##// Using jQuery (example)</h2>
+## Using jQuery (example)</h2>
 
 HTML file:
 ```HTML
